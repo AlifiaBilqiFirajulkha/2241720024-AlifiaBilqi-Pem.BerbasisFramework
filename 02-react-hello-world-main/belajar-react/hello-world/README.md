@@ -1,7 +1,7 @@
 |  | Pemrograman Berbasis Framework |
 |--|--|
-| NIM | 2141720248 |
-| Nama | Zhubair Abhel |
+| NIM | 2241720024 |
+| Nama | Alifia Bilqi |
 | Kelas | TI - 3C |
 
 ### Jawaban
