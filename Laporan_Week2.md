@@ -1,9 +1,9 @@
 # Week 02 - REACTJS
 
-**Nama :** Juan Felix Antonio Nathan Tote<br>
-**NIM :** 2241720042<br>
-**Kelas :** TI-3B<br>
-**Absen :** 16
+**Nama :** Alifia Bilqi Firajulkha<br>
+**NIM :** 2241720024<br>
+**Kelas :** TI-3C<br>
+**Absen :** 03
 
 ## 1. Persiapan Lingkungan
 <img src="img/0.jpg">
