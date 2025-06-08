@@ -1,9 +1,9 @@
 # Week 05 - Pengenalan Next.js
 
-**Nama :** Juan Felix Antonio Nathan Tote<br>
-**NIM :** 2241720042<br>
+**Nama :** Alifia Bilqi Firajulkha<br>
+**NIM :** 2241720024<br>
 **Kelas :** TI-3C<br>
-**Absen :** 16
+**Absen :** 03
 
 ## 1. Persiapan Lingkungan
 1. Inisialisasi proyek Next.js dengan TypeScript dan App Router:
